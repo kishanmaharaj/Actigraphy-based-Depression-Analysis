@@ -1,4 +1,4 @@
-# Actigraphy Based Depression Analysis
+# Actigraphy based Depression Prediction
 Predicting depression from daily gross motor activity
 
 ## Actigraphy
@@ -23,6 +23,6 @@ On performing exploratory data analysis, we observed that the gross motor activi
 ...
 
 ## Future Work
-Deep Learning
+Deep Learning!!
 
 
