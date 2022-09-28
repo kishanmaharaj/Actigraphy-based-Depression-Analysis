@@ -22,7 +22,15 @@ On performing exploratory data analysis, we observed that the gross motor activi
 ## Model
 ...
 
-## Future Work
-Deep Learning!!
+
+## To be done
+Deep Learning
 
 
+## References
+
+| Title | Link |
+| ------ | ------ |
+| Depresjon: a motor activity database of depression episodes in unipolar and bipolar patients | [https://dl.acm.org/doi/pdf/10.1145/3204949.3208125]|
+| Feature Extraction in Motor Activity Signal : Towards a Depression Episodes Detection in Unipolar and Bipolar Patients | [https://www.mdpi.com/2075-4418/9/1/8] |
+| One-Dimensional Convolutional Neural Networks on Motor Activity Measurements in Detection of Depression | [https://dl.acm.org/doi/pdf/10.1145/3347444.3356238] |
