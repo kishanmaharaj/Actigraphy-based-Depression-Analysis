@@ -17,7 +17,7 @@ The gross motor activity is recorded continously for several days.
 
 [Dataset Link](https://www.kaggle.com/datasets/arashnic/the-depression-dataset)
 
-## Observations
+## Data Analysis
 On performing exploratory data analysis, we observed that the gross motor activity for depressed patients is significantly lesser than any healthy person.
 
 
