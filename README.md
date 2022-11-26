@@ -32,7 +32,6 @@ Deep Learning
 | Title | Link |
 | ------ | ------ |
 | Depresjon: a motor activity database of depression episodes in unipolar and bipolar patients | https://dl.acm.org/doi/pdf/10.1145/3204949.3208125|
-| Feature Extraction in Motor Activity Signal : Towards a Depression Episodes Detection in Unipolar and Bipolar Patients | https://www.mdpi.com/2075-4418/9/1/8 |
 | One-Dimensional Convolutional Neural Networks on Motor Activity Measurements in Detection of Depression | https://dl.acm.org/doi/pdf/10.1145/3347444.3356238 |
 | Applying machine learning in motor activity time series of depressed bipolar and unipolar patients compared to healthy controls | https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231995 |
 | Monitoring Motor Activity Data for Detecting Patients’ Depression Using Data Augmentation and Privacy-Preserving Distributed Learning | https://ieeexplore.ieee.org/abstract/document/9630592 |
