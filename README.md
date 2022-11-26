@@ -15,16 +15,18 @@ Depresjon: a motor activity database of depression episodes in unipolar and bipo
 The dataset consists of sensor recorded motor activity data collected from actigraph watches worn by 23 unipolar and bipolar depressed patients and 32 healthy controls.
 The gross motor activity is recorded continously for several days. 
 
+[Dataset Link](https://www.kaggle.com/datasets/arashnic/the-depression-dataset)
+
 ## Observations
 On performing exploratory data analysis, we observed that the gross motor activity for depressed patients is significantly lesser than any healthy person.
 
 
-## Model
-...
+## Models 
+* Random Forest Classifier
+* XG Boost Classifier
+* LSTM
 
-
-## To be done
-Deep Learning
+For more information please refer to the codes folder.
 
 
 ## References
